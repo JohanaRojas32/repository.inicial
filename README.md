@@ -70,7 +70,11 @@ npm i
 npm run dev
 ```
 
+## Si quiero subir el proyecto a Netlify
 
 
+```sh
+npm run build
+```
 
 
